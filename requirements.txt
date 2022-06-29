@@ -1,0 +1,6 @@
+cryptography
+stdiomask
+YeetsMenu
+Colorama
+bcrypt
+paramiko
